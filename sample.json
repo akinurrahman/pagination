@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 22592,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Hackaday"
+        },
+        "author": "Bryan Cockfield",
+        "title": "Weather Station with Distributed Sensors",
+        "description": "Building a weather station is a fairly common project that plenty of us have taken on, and for good reason. They can be built around virtually any microcontroller or full-scale computer, can have a…",
+        "url": "https://hackaday.com/2023/08/11/weather-station-with-distributed-sensors/",
+        "urlToImage": "https://hackaday.com/wp-content/uploads/2023/08/esp32-weather-main.jpg",
+        "publishedAt": "2023-08-11T20:00:10Z",
+        "content": "Building a weather station is a fairly common project that plenty of us have taken on, and for good reason. They can be built around virtually any microcontroller or full-scale computer, can have as … [+1642 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Central"
+        },
+        "author": "tips@androidcentral.com (Vishnu Sarangapurkar)",
+        "title": "YouTube TV starts rolling out multiview streams for WNBA fans",
+        "description": "With multiview, users can stream four live matches simultaneously; it further supports streaming news, weather, and more.",
+        "url": "https://www.androidcentral.com/streaming-tv/youtube-tv-multiview-rollout-wnba",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/GGeShzgoboKpPTK4qqCPFK-1200-80.jpg",
+        "publishedAt": "2023-07-31T02:22:00Z",
+        "content": "<ul><li>YouTube TV's multiview comes out of the testing phase and goes official.</li><li>It features pre-set multiviews with groups of up to four live games.</li><li>Multiple simultaneous streams can… [+2820 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "Heavy rain coming for parts of Nova Scotia and New Brunswick: Environment Canada - Global News",
+        "description": "<ol><li>Heavy rain coming for parts of Nova Scotia and New Brunswick: Environment Canada  Global News\r\n</li><li>HRM and surrounding area under a Special Weather Statement  Halifax.CityNews.ca\r\n</li><li>GTA weather: Up to 40mm of rain Monday  CP24\r\n</li><li>Sp…",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMic2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzk4ODE0NTYvaGVhdnktcmFpbi1jb21pbmctZm9yLXBhcnRzLW9mLW5vdmEtc2NvdGlhLWFuZC1uZXctYnJ1bnN3aWNrLWVudmlyb25tZW50LWNhbmFkYS_SAXdodHRwczovL2dsb2JhbG5ld3MuY2EvbmV3cy85ODgxNDU2L2hlYXZ5LXJhaW4tY29taW5nLWZvci1wYXJ0cy1vZi1ub3ZhLXNjb3RpYS1hbmQtbmV3LWJydW5zd2ljay1lbnZpcm9ubWVudC1jYW5hZGEvYW1wLw?oc%3D5&gl=FR&hl=en&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-08-07T18:37:48Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Hurricane Hilary: Category 4 hurricane approaches California",
+        "description": "Hilary is expected to become a tropical storm - the first in 80 years to make landfall in California.",
+        "url": "https://www.bbc.co.uk/news/world-us-canada-66499946",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C8C1/production/_130839315_hurricane.jpg",
+        "publishedAt": "2023-08-18T14:02:40Z",
+        "content": "A rapidly intensifying hurricane with 145mph (233km/h) wind speed is headed toward the US South West.\r\nThe Category 4 hurricane, named Hurricane Hilary, is predicted to first make landfall in Baja Ca… [+1738 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Lifehacker.com"
+        },
+        "author": "Lifehacker Staff",
+        "title": "The Safest Places to Be During a Hurricane",
+        "description": "A depressing byproduct of global climate change is more—and more powerful— hurricanes. With tropical storms and hurricanes even brewing in the Pacific Ocean now, everyone near either U.S. coast is potentially in danger from these vicious storms. But you can k…",
+        "url": "https://lifehacker.com/how-to-stay-safe-during-a-hurricane-1798391969",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0504585e3777eb81cf025244a91b2103.jpg",
+        "publishedAt": "2023-08-18T20:15:00Z",
+        "content": "A depressing byproduct of global climate change is moreand more powerful hurricanes. With tropical storms and hurricanes even brewing in the Pacific Ocean now, everyone near either U.S. coast is pote… [+8423 chars]"
+      },
+      {
+        "source": {
+          "id": "engadget",
+          "name": "Engadget"
+        },
+        "author": "Mariella Moon",
+        "title": "Watch Virgin Galactic's first ever space tourist flight at 11am ET",
+        "description": "Virgin Galactic might hit another milestone today in its quest to provide trips to suborbital space. If the weather cooperates and everything goes as planned for the company, its first private passenger flight will be taking off from its Spaceport America fac…",
+        "url": "https://www.engadget.com/watch-virgin-galactics-first-ever-space-tourist-flight-at-11am-et-143100162.html",
+        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/tj1noeNp8gnTLmg2ehub4A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/aba94690-376b-11ee-bdff-235d6b2f3bd2.cf.jpg",
+        "publishedAt": "2023-08-10T14:31:00Z",
+        "content": "Virgin Galactic might hit another milestone today in its quest to provide trips to suborbital space. If the weather cooperates and everything goes as planned for the company, its first private passen… [+1618 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "gglover@insider.com (George Glover)",
+        "title": "The Panama Canal's water level is dropping thanks to a drought, throttling the number of ships that can get through",
+        "description": "Dry weather in Panama has forced officials to limit the number of ships that can get through, eating into the revenue it can generate.",
+        "url": "https://www.businessinsider.com/panama-canal-drought-travel-ships-income-falling-el-nino-2023-8",
+        "urlToImage": "https://i.insider.com/64ce201ff5d4870019e25142?width=1200&format=jpeg",
+        "publishedAt": "2023-08-05T11:10:55Z",
+        "content": "The Panama Canal is suffering from an intense drought which is forcing officials to cap the number of ships that can pass through the vital waterway.\r\nAdministrator Ricaurte Vasquez said Thursday tha… [+1222 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "GTA weather: Up to 40mm of rain Monday - CTV News Toronto",
+        "description": "<ol><li>GTA weather: Up to 40mm of rain Monday  CTV News Toronto\r\n</li><li>Environment Canada issues rainfall warning for Ottawa  Ottawa.CityNews.ca\r\n</li><li>Special weather statement issued  OrilliaMatters\r\n</li><li>This week's storm could bring up to 75 mm…",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vdG9yb250by5jdHZuZXdzLmNhL2hlYXZ5LWRvd25wb3Vycy1vZi11cC10by00MC1tbS1leHBlY3RlZC1hY3Jvc3MtZ3RhLW9uLW1vbmRheS0xLjY1MDk1NjPSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-08-07T14:26:00Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "Jonathan Franklin",
+        "title": "Tropical Storm Emily takes shape in the Atlantic, as storm activity starts to warm up",
+        "description": "As the season is nearing its peak, the Atlantic Ocean has suddenly become very active with several storms that meteorologists and weather forecasters are watching.",
+        "url": "https://www.npr.org/2023/08/20/1194919088/atlantic-hurricane-season-forecast-more-storms-are-expected",
+        "urlToImage": "https://media.npr.org/assets/img/2023/08/20/screenshot-2023-08-20-at-15-07-48-national-hurricane-center_wide-4a9d12b93cae194852791aa9dd6b182e2dc1ae6e-s1400-c100.png",
+        "publishedAt": "2023-08-20T19:22:25Z",
+        "content": "After a relatively quiet start to the Atlantic hurricane season, the National Hurricane Center was monitoring multiple storm systems in the Atlantic on Sunday.\r\nNational Hurricane Center\r\nThe 2023 At… [+2536 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "Lisa Lambert",
+        "title": "This summer's crazy weather just can't stop, won't stop Americans from having fun",
+        "description": "People are consulting weather apps, donning rain gear and downing electrolytes in a quest to enjoy the 100 days between Memorial Day and Labor Day.",
+        "url": "https://www.npr.org/2023/08/17/1193842553/summer-wildfire-smoke-hail-flood-spending-vacation",
+        "urlToImage": "https://media.npr.org/assets/img/2023/08/15/johnhunt_wide-9d700be2dbc723a5a9d0f158796304feca024450-s1400-c100.jpeg",
+        "publishedAt": "2023-08-17T18:50:59Z",
+        "content": "This summer's crazy weather just can't stop, won't stop Americans from having fun\r\nJohn Hunt catches a fish during his extensive fun-filled summer.\r\nCourtesy: John Hunt\r\nAmericans have made one thing… [+5808 chars]"
+      }
+    ]
+  }
